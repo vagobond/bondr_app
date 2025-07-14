@@ -1,7 +1,7 @@
 <?php
 // PrivateCircle Main Application - PHP 8.1 Compatible
 // index.php - Main entry point
-
+// Testing Git
 session_start();
 
 // Check if config file exists
